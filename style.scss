@@ -1,0 +1,11 @@
+$bgColor: #000000;
+$text: rgb(0, 0, 0);
+
+@import 'style-fonts.scss';
+@import 'style-mob.scss';
+@import 'style-tablet.scss';
+@import 'style-desktop.scss';
+@import 'style-menu.scss';
+@import 'style-modal-callback.scss';
+@import 'style-modal-feedback.scss';
+@import 'swiper.scss';
